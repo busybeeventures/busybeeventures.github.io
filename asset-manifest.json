@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b140c3c.css",
+    "main.js": "/static/js/main.fd39e57c.js",
+    "static/media/unsplash_qC2n6RQU4Vw.png": "/static/media/unsplash_qC2n6RQU4Vw.f40d0fff6fddda3da4b9.png",
+    "static/media/unsplash_XopauR-Nagk.png": "/static/media/unsplash_XopauR-Nagk.1137f288fb49567186db.png",
+    "static/media/party.svg": "/static/media/party.df6cdd8258e54a406a8d2377b566499a.svg",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/bgc.svg": "/static/media/bgc.b65bf47d8c08d7704bc8de023247f9f3.svg",
+    "static/media/product.svg": "/static/media/product.76db5bba7fe08560ac7c11b546031d07.svg",
+    "static/media/service.svg": "/static/media/service.05a9a606812fde3cf3ab16f948ac79e4.svg",
+    "static/media/ethnocentric rg.otf": "/static/media/ethnocentric rg.c575f23a7ad77c36bd67.otf",
+    "static/media/map.svg": "/static/media/map.b5318d45e5687b2f5b768288c53fb528.svg",
+    "static/media/mail.svg": "/static/media/mail.125405764a59881915c282ae5b6db298.svg",
+    "index.html": "/index.html",
+    "static/media/phone.svg": "/static/media/phone.8b8545ca418ab33207f2a0ac6492c0b6.svg",
+    "main.6b140c3c.css.map": "/static/css/main.6b140c3c.css.map",
+    "main.fd39e57c.js.map": "/static/js/main.fd39e57c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b140c3c.css",
+    "static/js/main.fd39e57c.js"
+  ]
+}
